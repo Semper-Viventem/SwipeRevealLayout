@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/Semper-Viventem/SwipeRevealLayout.svg)](https://jitpack.io/#Semper-Viventem/SwipeRevealLayout)
+
 ## SwipeRevealLayout
 A layout that you can swipe/slide to show another layout.
 
@@ -26,7 +28,7 @@ Drag mode same_level:
 #### Dependencies
 ```groovy
 dependencies {
-    compile 'com.chauthai.swipereveallayout:swipe-reveal-layout:1.4.0'
+    compile 'com.github.Semper-Viventem:SwipeRevealLayout:1.4.0'
 }
 ```
 
